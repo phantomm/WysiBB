@@ -54,7 +54,7 @@ WBBLANG['pl'] = {
 	validation_err: "Podane dane nie są poprawne",
 	error_onupload: "Wystąpił błąd podczas wysyłania pliku",
 	
-	fileupload_text1: "Upuść pliki tutaj",
+	fileupload_text1: "Upuść tutaj pliki",
 	fileupload_text2: "lub",
 	
 	loading: "Ładowanie",
