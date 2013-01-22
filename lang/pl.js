@@ -27,7 +27,9 @@ WBBLANG['pl'] = {
 	fs_big: "Duży",
 	fs_verybig: "Bardzo duży",
 	smilebox: "Wstaw emotikonę",
-	
+	video: "Wstaw film",
+	removeFormat:"Usuń formatowanie",
+
 	modal_link_title: "Wstaw link",
 	modal_link_text: "Wyświetlany tekst",
 	modal_link_url: "Adres URL",
@@ -40,7 +42,10 @@ WBBLANG['pl'] = {
 	modal_img_tab2: "Wyślij obraz",
 	modal_imgsrc_text: "Podaj adres URL obrazu",
 	modal_img_btn: "Wybierz plik",
-	
+	add_attach: "Dodaj załącznik",
+
+	modal_video_text: "Podaj adres URL filmu",
+
 	close: "Zamknij",
 	save: "Zapisz",
 	cancel: "Anuluj",
@@ -49,12 +54,14 @@ WBBLANG['pl'] = {
 	validation_err: "Podane dane nie są poprawne",
 	error_onupload: "Wystąpił błąd podczas wysyłania pliku",
 	
-	fileupload_text1: "Upuść tutaj pliki",
+	fileupload_text1: "Upuść pliki tutaj",
 	fileupload_text2: "lub",
 	
 	loading: "Ładowanie",
 	auto: "Auto",
-	
+	views: "Wyświetleń",
+	downloads: "Pobrań",
+
 	//smiles
 	sm1: "Uśmiech",
 	sm2: "Chichot",
